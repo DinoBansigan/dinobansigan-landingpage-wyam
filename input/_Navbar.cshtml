@@ -1,0 +1,17 @@
+@{
+    List<Tuple<string, string>> pages = Context
+        .Documents[Blog.Pages]
+        .Where(x => x.Bool(BlogKeys.ShowInNavbar, true))
+        .Where(x => x.FilePath(Keys.RelativeFilePath)?.FullPath?.StartsWith("index") == (bool?)false)
+        .Select(x => Tuple.Create(x.WithoutSettings.String(Keys.Title), Context.GetLink(x)))
+        .Where(x => !string.IsNullOrEmpty(x.Item1))
+        .OrderBy(x => x.Item1)
+        .ToList();
+    
+    // If there are still other links that wasn't covered in the foreach loop above, they will show up here
+    // in whatever order they were added to the pages variable.
+    foreach(Tuple<string, string> page in pages)
+    {
+        <li><a href="@(page.Item2)">@(page.Item1)</a></li>
+    }
+}

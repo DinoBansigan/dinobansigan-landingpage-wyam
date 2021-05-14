@@ -1,0 +1,46 @@
+/posts/hello-world                                          https://devblog.dinobansigan.com/hello-world
+/posts/checking-custom-domain-name-ip-address               https://devblog.dinobansigan.com/checking-custom-domain-name-ip-address-in-windows
+/posts/blog-with-jekyllnow-and-github-pages                 https://devblog.dinobansigan.com/create-a-blog-quickly-with-jekyll-and-github-pages
+/posts/breakpoint-failed-to-bind                            https://devblog.dinobansigan.com/breakpoint-failed-to-bind-visual-studio-2017
+/posts/adding-archive-page-to-jekyllnow-blog                https://devblog.dinobansigan.com/adding-an-archive-page-to-jekyll-now-blog
+/posts/migrating-blog-wyam                                  https://devblog.dinobansigan.com/migrating-blog-to-wyam
+/posts/adding-time-to-read-to-wyam-blog                     https://devblog.dinobansigan.com/adding-time-to-read-to-wyam-blog
+/posts/find-sql-server-table-by-table-name                  https://devblog.dinobansigan.com/find-sql-server-table-by-table-name
+/posts/sql-server-try-catch-exception-handling-template     https://devblog.dinobansigan.com/sql-server-try-catch-with-exception-handling-template
+/posts/keeping-output-window-open-when-building-solution    https://devblog.dinobansigan.com/keeping-output-window-open-when-building-solution-in-visual-studio-2017
+/posts/querying-json-array-in-sql-server                    https://devblog.dinobansigan.com/querying-json-array-in-sql-server
+/posts/get-type-hierarchy-for-an-object                     https://devblog.dinobansigan.com/get-type-hierarchy-for-an-object
+/posts/lowercase-letters-only-with-azure-storage-containers https://devblog.dinobansigan.com/lowercase-letters-only-with-azure-storage-containers
+/posts/sync-system-time-to-domain-controller                https://devblog.dinobansigan.com/how-to-sync-system-date-time-to-domain-controller
+/posts/get-all-objectids-from-mongodb-into-sql-server       https://devblog.dinobansigan.com/get-all-objectids-from-mongodb-into-sql-server
+/posts/problems-with-simplifying-object-initializations     https://devblog.dinobansigan.com/problems-with-simplifying-object-initializations
+/posts/delaying-message-processing-in-rabbitmq              https://devblog.dinobansigan.com/delaying-message-processing-in-rabbitmq
+/posts/write-tests-before-bug-fixes                         https://devblog.dinobansigan.com/write-tests-before-bug-fixes
+/posts/string-comparisons-in-csharp                         https://devblog.dinobansigan.com/string-comparisons-in-csharp
+/posts/getting-dotnet-core-3                                https://devblog.dinobansigan.com/getting-net-core-3-0
+/posts/single-responsibility-principle                      https://devblog.dinobansigan.com/single-responsibility-principle
+/posts/invalid-nullable-value-enable-for-csharp             https://devblog.dinobansigan.com/invalid-nullable-value-enable-for-c-7-3
+/posts/huge-templog-ldf-file-wont-shrink-back-down          https://devblog.dinobansigan.com/huge-templog-ldf-file-wont-shrink-back-down
+/posts/tips-for-working-with-production-databases           https://devblog.dinobansigan.com/tips-for-working-with-production-databases
+/posts/build-error-reported-but-error-list-window-is-empty  https://devblog.dinobansigan.com/build-error-reported-but-error-list-window-is-empty
+/posts/wcf-bindingconfiguration-error                       https://devblog.dinobansigan.com/wcf-bindingconfiguration-error
+/posts/where-to-find-the-wcf-testclient-application         https://devblog.dinobansigan.com/where-to-find-the-wcf-testclient-application
+/posts/visual-studio-code-comparison-view-modes             https://devblog.dinobansigan.com/visual-studio-code-comparison-view-modes
+/posts/problems-opening-rptproj-files-in-visual-studio      https://devblog.dinobansigan.com/problems-opening-rptproj-files-in-visual-studio
+/posts/telerik-justdecompile                                https://devblog.dinobansigan.com/telerik-justdecompile
+/posts/changes-for-2021                                     https://devblog.dinobansigan.com/changes-for-2021
+
+/bookmarks/open-closed-principle                            https://devblog.dinobansigan.com/open-and-closed-principle-code-maze
+/bookmarks/conditional-serialization-with-jsonnet           https://devblog.dinobansigan.com/conditionally-serializing-fields-and-properties-with-json-net-marius-schulz
+/bookmarks/new-windows-terminal                             https://devblog.dinobansigan.com/new-windows-terminal
+/bookmarks/dotnet-web-development-history                   https://devblog.dinobansigan.com/asp-net-core-and-net-core-and-the-web-development-stack-timeline-iris-classon
+/bookmarks/practical-asp.net-core-samples                   https://devblog.dinobansigan.com/hundreds-of-practical-asp-net-core-samples-to-learn-the-fundamentals-scott
+/bookmarks/index-for-most-popular-programming-languages     https://devblog.dinobansigan.com/most-popular-programming-languages-tiobe-index-tiobe
+
+/posts/stop-apple-music-autoplay-in-car                     https://journal.dinobansigan.com/how-i-stopped-apple-music-from-auto-playing-in-my-car
+
+/latestposts                                                https://devblog.dinobansigan.com
+/posts                                                      https://devblog.dinobansigan.com
+/tags                                                       https://devblog.dinobansigan.com
+/about                                                      https://devblog.dinobansigan.com/about
+/bookmarks                                                  https://devblog.dinobansigan.com/tag:Bookmarks

@@ -1,0 +1,14 @@
+[Pp]ackages/
+[Tt]ools/*
+[Oo]utput/
+nuget.exe
+*.zip
+/debug.log
+/*.packages.xml
+/*.wyam.hash
+/*.wyam.dll
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/dinobansigan/config/applicationhost.config
+.vs/dinobansigan/v16/.suo
+input/_Scripts.cshtml

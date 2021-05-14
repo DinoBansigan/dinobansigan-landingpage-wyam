@@ -1,0 +1,11 @@
+#recipe Blog
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "dinobansigan.com";
+Settings[BlogKeys.Title] = "Dino Bansigan";
+Settings[BlogKeys.Description] = "Hey there, I'm Dino";
+
+Pipelines.Add(
+    // Copy redirect file to the output folder
+    CopyFiles("_redirects")
+);

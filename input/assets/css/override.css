@@ -1,0 +1,17 @@
+li a {
+    text-decoration: underline;
+}
+
+.subheading a {
+    color: white;
+    font-weight: bolder;
+}
+
+.subheading a:hover {
+    text-decoration: none;
+    text-shadow: 0px 0px 6px white;
+}
+
+.intro-header-no-bottom-margin {
+    margin-bottom: -100px !important;
+}
