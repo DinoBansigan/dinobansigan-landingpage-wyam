@@ -12,6 +12,10 @@ li a {
     text-shadow: 0px 0px 6px white;
 }
 
-.intro-header-no-bottom-margin {
-    margin-bottom: -100px !important;
+.intro-header {
+    margin-bottom: 0px !important;
+}
+
+footer {
+    padding: 0px 0 20px;
 }

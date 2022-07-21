@@ -1,6 +1,6 @@
 Title: Contact
 ---
-The quickest way to contact me is to send me a message using the form below. Alternatively, you can [ask me a question on Github](https://github.com/DinoBansigan/ama/issues/new), or message me on [Micro.blog](https://micro.blog/Dino) and [LinkedIn](https://www.linkedin.com/in/dinobansigan).
+The quickest way to contact me is to send me a message using the form below, or for work inquiries, you can try finding me on LinkedIn.
 
 <!-- fnContact embed -->
 <div id='fnContactEmbed'></div>
